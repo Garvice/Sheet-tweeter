@@ -1,0 +1,15 @@
+{
+  "name": "sheet-tweet",
+  "version": "1.0.0",
+  "description": "Sheet-tweet",
+  "main": "sheet-tweet-webtask.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "smartsheet": "^0.2.0",
+    "twit": "^2.2.9"
+  }
+}
